@@ -1,0 +1,2290 @@
+{
+  "id": "LAD",
+  "projectId": "2zdTE9fAbA295dGDQIE4dA",
+  "author": "",
+  "createdAt": "2023-01-11T12:04:59+04:00",
+  "schema": "IFC2X3",
+  "creatingApplication": "23.1.10.4 - Exporter 23.1.1.0 - Alternate UI 23.1.1.0",
+  "metaObjects": [
+    {
+      "id": "2zdTE9fAbA295dGDQIE4dA",
+      "name": "LAD",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "2zdTE9fAbA295dGDQIE4d8",
+      "name": "Surface:939069",
+      "type": "IfcSite",
+      "parent": "2zdTE9fAbA295dGDQIE4dA"
+    },
+    {
+      "id": "2zdTE9fAbA295dGDQIE4dB",
+      "name": "",
+      "type": "IfcBuilding",
+      "parent": "2zdTE9fAbA295dGDQIE4d8"
+    },
+    {
+      "id": "3Zu5Bv0LOHrPC10026FoQQ",
+      "name": "Level_XX",
+      "type": "IfcBuildingStorey",
+      "parent": "2zdTE9fAbA295dGDQIE4dB"
+    },
+    {
+      "id": "1Oe9Fx5AHAlhPfn9ELBsGM",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:332147",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0HrkL606TCnQSPWbMftdVI",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:341876",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0HrkL606TCnQSPWbMftdny",
+      "name": "Cast-In-Place Stair:Stair:343258",
+      "type": "IfcStair",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0HrkL606TCnQSPWbMftdnu",
+      "name": "Cast-In-Place Stair:Stair:343258 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "0HrkL606TCnQSPWbMftdny"
+    },
+    {
+      "id": "1KnmTsDrn3oQoW0iN3uywp",
+      "name": "Cast-In-Place Stair:Stair:347460",
+      "type": "IfcStair",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1KnmTsDrn3oQoW0iN3uyws",
+      "name": "Cast-In-Place Stair:Stair:347460 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "1KnmTsDrn3oQoW0iN3uywp"
+    },
+    {
+      "id": "0X3sQbeanALgMHpOLxs6g_",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:348376",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2J3fOmOLH4Hgnoj28aBLhP",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:350882",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2J3fOmOLH4Hgnoj28aBLyP",
+      "name": "Cast-In-Place Stair:Stair:352098",
+      "type": "IfcStair",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2J3fOmOLH4Hgnoj28aBLyT",
+      "name": "Cast-In-Place Stair:Stair:352098 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2J3fOmOLH4Hgnoj28aBLyP"
+    },
+    {
+      "id": "2J3fOmOLH4Hgnoj28aBM83",
+      "name": "Cast-In-Place Stair:Stair:352888",
+      "type": "IfcStair",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2J3fOmOLH4Hgnoj28aBM87",
+      "name": "Cast-In-Place Stair:Stair:352888 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2J3fOmOLH4Hgnoj28aBM83"
+    },
+    {
+      "id": "2J3fOmOLH4Hgnoj28aBMRh",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:353936",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1I8UdQm8H6JhLzesiYyfb3",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:354438",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1I8UdQm8H6JhLzesiYyfgO",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:355165",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1I8UdQm8H6JhLzesiYyfrW",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:355493",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "15sYaVsMj9O9NrRNgmo3To",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:356009",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "15sYaVsMj9O9NrRNgmo2BK",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:359174",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "352QHmQSv89QhgPoz5VD2X",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:360654",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "352QHmQSv89QhgPoz5VDCy",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:361299",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1G6Ivvfsv1g9GS1_2ISv33",
+      "name": "Cast-In-Place Stair:Stair:361943",
+      "type": "IfcStair",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1G6Ivvfsv1g9GS1_2ISv3F",
+      "name": "Cast-In-Place Stair:Stair:361943 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "1G6Ivvfsv1g9GS1_2ISv33"
+    },
+    {
+      "id": "1G6Ivvfsv1g9GS1_2ISvdF",
+      "name": "Cast-In-Place Stair:Stair:363739",
+      "type": "IfcStair",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1G6Ivvfsv1g9GS1_2ISvdA",
+      "name": "Cast-In-Place Stair:Stair:363739 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "1G6Ivvfsv1g9GS1_2ISvdF"
+    },
+    {
+      "id": "1PtHQk4Tf3lf5VR8xIbLTO",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:364487",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCdFCXzv",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:365930",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCdFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKClFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKChFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCtFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCpFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKC$FCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCxFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKC7FCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKC3FCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCFFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCBFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCNFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCJFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCVFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKCRFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKDdFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "2kfn8FRkr7BfmDKDZFCXAz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:366766",
+      "type": "IfcSlab",
+      "parent": "2kfn8FRkr7BfmDKCdFCXAz"
+    },
+    {
+      "id": "0SrR9gjL5C_gAHh15Gyvcu",
+      "name": "Cast-In-Place Stair:Stair:367107",
+      "type": "IfcStair",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0SrR9gjL5C_gAHh15Gyvcy",
+      "name": "Cast-In-Place Stair:Stair:367107 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "0SrR9gjL5C_gAHh15Gyvcu"
+    },
+    {
+      "id": "0HPKNIdXz1avDEtcpYBaRi",
+      "name": "Cast-In-Place Stair:Stair:367846",
+      "type": "IfcStair",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0HPKNIdXz1avDEtcpYBaRZ",
+      "name": "Cast-In-Place Stair:Stair:367846 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "0HPKNIdXz1avDEtcpYBaRi"
+    },
+    {
+      "id": "2tSCc5dEL25B0yYIlQrnF2",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:368424",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2tSCc5dEL25B0yYIlQrou8",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:369378",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2Knnq9zSLDtAn9$4zunAw0",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:387898",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0MrfBY1Y51rAfNCccEuA2j",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_410mm:389486",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3cu_G6FHT6JwBjY8VU1hpb",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_200mm:390223",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "22a5DPOp5A2RxkgrP0zX3g",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_410mm:391782",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "22a5DPOp5A2RxkgrP0zX6S",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_200mm:391798",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "22a5DPOp5A2RxkgrP0zXxA",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_500mm:391803",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "22a5DPOp5A2RxkgrP0zXpx",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_500mm:391806",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "22a5DPOp5A2RxkgrP0zXnR",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_300mm:391855",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "22a5DPOp5A2RxkgrP0zXsH",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_500mm:392037",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "22a5DPOp5A2RxkgrP0zXif",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:392669",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3y5flp9RHBOPQ4Y7gkuIX_",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:393150",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0$Z6$5cuP9CwGRGVUzFfpp",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:395274",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0$Z6$5cuP9CwGRGVUzFfwS",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:395877",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0$Z6$5cuP9CwGRGVUzFf$n",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:396040",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0$Z6$5cuP9CwGRGVUzFfzI",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:396203",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0$Z6$5cuP9CwGRGVUzFfZQ",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:396323",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0$Z6$5cuP9CwGRGVUzFfXq",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:396429",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0$Z6$5cuP9CwGRGVUzFfdM",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:396591",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0$Z6$5cuP9CwGRGVUzFfhd",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:396830",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0Yxyw",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:399167",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0Yx__",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:399291",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0Yx1z",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:399480",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0Yx35",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:399552",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0Yx7N",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:399826",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0YxCJ",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:400150",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0YxGi",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:400425",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0YxHs",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:400499",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0YxJ5",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:400576",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0evYch3gT0yQo4PQf0YxL0",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:400709",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "20RXwqcQz91BURx0n48RYh",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:402124",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "25dtI2kuj9tun4YbP241jl",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:402903",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "25dtI2kuj9tun4YbP241ZG",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:403048",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "25dtI2kuj9tun4YbP241Xr",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:403149",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "25dtI2kuj9tun4YbP241a4",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:403388",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "25dtI2kuj9tun4YbP241UR",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:403747",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1rSIxkxPH0UR1eJakoy2_f",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:403842",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2Dwck2k8XC98GLHwzmi5Yw",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_200mm:403908",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2Dwck2k8XC98GLHwzmi5z5",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:405051",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2Dwck2k8XC98GLHwzmi5yU",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:405088",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "337IqaKgf6au1JUkdXN6sz",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:405138",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "337IqaKgf6au1JUkdXN7Cg",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:405509",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "337IqaKgf6au1JUkdXN7E6",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_350mm:405673",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "337IqaKgf6au1JUkdXN79p",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_350mm:405852",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "337IqaKgf6au1JUkdXN791",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_350mm:405870",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "337IqaKgf6au1JUkdXN71E",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_350mm:406369",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "337IqaKgf6au1JUkdXN72$",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_350mm:406416",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "337IqaKgf6au1JUkdXN7Tn",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_350mm:406622",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "337IqaKgf6au1JUkdXN7UA",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_350mm:406693",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0lIYfxcSPC6RDD6ngpPpef",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:407937",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0lIYfxcSPC6RDD6ngpPqDH",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:409849",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3b4JwmgBr4xBacQ1eHPCxc",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:411989",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3b4JwmgBr4xBacQ1eHPCtk",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:412253",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3b4JwmgBr4xBacQ1eHPCpK",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:412519",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3b4JwmgBr4xBacQ1eHPCnK",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:412647",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3jhzC$1gT4HAuOWPZwxqou",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:412987",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3jhzC$1gT4HAuOWPZwxqp_",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:413053",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3zEOEtTFH2Awx8$oycLV9r",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:413699",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3zEOEtTFH2Awx8$oycLV9N",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:413729",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3zEOEtTFH2Awx8$oycLVBM",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:413856",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3zEOEtTFH2Awx8$oycLVDN",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:413985",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3zEOEtTFH2Awx8$oycLVFV",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:414121",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3zEOEtTFH2Awx8$oycLV00",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:414326",
+      "type": "IfcWall",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3zEOEtTFH2Awx8$oycLV3D",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:414395",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3zEOEtTFH2Awx8$oycLV5M",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:414496",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3OHYtoi2HDv8ZI002Rd4Uv",
+      "name": "Basic Wall:LAN_ALH_WALL-EXT_Concrete_1050mm:415365",
+      "type": "IfcWallStandardCase",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3fhx00DEL54uxZdr9asWM3",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:419937",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2DMoyEUaT7i8Lmn69laLsQ",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:420898",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2DMoyEUaT7i8Lmn69laLmf",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:421265",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2DMoyEUaT7i8Lmn69laLxL",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:421741",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2DMoyEUaT7i8Lmn69laK5H",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:422121",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2DMoyEUaT7i8Lmn69laK1R",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:422371",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3UoROwATj7QwpzwUh7yCPy",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:422515",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3UoROwATj7QwpzwUh7yCU4",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:422795",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3UoROwATj7QwpzwUh7yCUi",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:422819",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3UoROwATj7QwpzwUh7yC0s",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_550mm:422969",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCwe",
+      "name": "LAN_UNC_Kerbing_Precast_01:L1950xW150xD110mm:442725",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCvC",
+      "name": "LAN_UNC_Kerbing_Precast_01:L1950xW150xD110mm:442728",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCu0",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442729",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCde",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442730",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCdH",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442731",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCcw",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442732",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCcS",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442733",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCcK",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442734",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCbp",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442735",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCbh",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442736",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCb0",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442737",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3xa3b3Qk15O9gR8pK8MCaw",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:442738",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0UAupvmAD5aek0u4uHrUq0",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:462639",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0UAupvmAD5aek0u4uHrUqc",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:462640",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nze",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464972",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nzW",
+      "name": "LAN_UNC_Kerbing_Precast_01:L1950xW150xD110mm:464973",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nzu",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464974",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nzm",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464975",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nz8",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464976",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nz0",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464977",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nzO",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464978",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nzG",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464979",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nye",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464980",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nyW",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464981",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nyu",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464982",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nym",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464983",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3ny8",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464984",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3ny0",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464985",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nyO",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464986",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3nyG",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464987",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m3e",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464988",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m3W",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464989",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m3u",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464990",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m3m",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464991",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m38",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464992",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m30",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464993",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m3O",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464994",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m3G",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464995",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m2e",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464996",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m2W",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464997",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m2u",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464998",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m2E",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:464999",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m26",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:465000",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m2U",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:465001",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2XRhGGTOn4Ae5UfKWQ3m2M",
+      "name": "LAN_UNC_Kerbing_Precast_01:L2000xW150xD110mm:465002",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2UqeHpff98o9s$H_4XieU7",
+      "name": "Round Bars-Column:RB 11 1/16:516638",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE4W",
+      "name": "Round Bars-Column:RB 11 1/16:519754",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE7H",
+      "name": "Round Bars-Column:RB 11 1/16:519867",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE6c",
+      "name": "Round Bars-Column:RB 11 1/16:519884",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE3j",
+      "name": "Round Bars-Column:RB 11 1/16:520071",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFrP",
+      "name": "Round Bars-Column:RB 11 1/16:520755",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFtY",
+      "name": "Round Bars-Column:RB 11 1/16:520840",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFsb",
+      "name": "Round Bars-Column:RB 11 1/16:520911",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFmv",
+      "name": "Round Bars-Column:RB 11 1/16:521043",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1$W",
+      "name": "Round Bars-Column:RB 11 1/16:522339",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1zb",
+      "name": "Round Bars-Column:RB 11 1/16:522470",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1w2",
+      "name": "Round Bars-Column:RB 11 1/16:522497",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1wX",
+      "name": "Round Bars-Column:RB 11 1/16:522530",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1x1",
+      "name": "Round Bars-Column:RB 11 1/16:522562",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1u1",
+      "name": "Round Bars-Column:RB 11 1/16:522626",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1uZ",
+      "name": "Round Bars-Column:RB 11 1/16:522656",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1t$",
+      "name": "Round Bars-Column:RB 11 1/16:522876",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1oX",
+      "name": "Round Bars-Column:RB 11 1/16:523042",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1mf",
+      "name": "Round Bars-Column:RB 11 1/16:523178",
+      "type": "IfcColumn",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0IK",
+      "name": "Parking:106x980mm:586499",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0IX",
+      "name": "Parking:106x980mm:586550",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0If",
+      "name": "Parking:106x980mm:586558",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0JH",
+      "name": "Parking:106x980mm:586566",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0J7",
+      "name": "Parking:106x980mm:586576",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0JD",
+      "name": "Parking:106x980mm:586586",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0J$",
+      "name": "Parking:106x980mm:586600",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0Jd",
+      "name": "Parking:106x980mm:586608",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0Jh",
+      "name": "Parking:106x980mm:586620",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0R93Rp2snFzRmTJkfmI0GH",
+      "name": "Parking:106x980mm:586630",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIhEq",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721762",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIhEf",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721763",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIhEH",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721764",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIhEP",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721765",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIh9X",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721766",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIh9f",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721767",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIh9H",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721768",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIh6O",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721769",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIh6B",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721770",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIh1_",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721771",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIh13",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721772",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIqzF",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721774",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIqy$",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721775",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIqy4",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Small:721776",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIq$c",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721777",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIq_Z",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Small:721778",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIq_K",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Small:721779",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIqvH",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721780",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIqu_",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721781",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIqu2",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721782",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIqx8",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721783",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0ZyrPoKFf9PASJt8TuIqwY",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:721784",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGZU",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724006",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGZM",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724007",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGZE",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724008",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGYq",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724009",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGY4",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724010",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGz2",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724011",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGyw",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724012",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGyo",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724013",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGyi",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724014",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGyC",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724015",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCG$f",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724016",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCG_w",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724017",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCG_o",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724018",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCG_g",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724019",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCG_Y",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724020",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCG_Q",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724021",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGvu",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724022",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGvm",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724023",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGve",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724024",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGvH",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Palm:724025",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGv7",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Palm:724026",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGuY",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724027",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGuQ",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724028",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGuI",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724029",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGuA",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724030",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGu6",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724031",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGxo",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724032",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGrS",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724033",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGrM",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724034",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGrE",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724035",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGqu",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724036",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0hM2iI56n6WA0Czb3dCGtO",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:724037",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdh9",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726346",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdht",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726347",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdhb",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726348",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdhj",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726349",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdeL",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726350",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdeF",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726351",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdet",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726352",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdej",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726353",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdfL",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726354",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdf$",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726355",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdkB",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726356",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdkp",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726357",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdkx",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726358",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdkZ",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726359",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdlf",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726360",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdiN",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726361",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdiV",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726362",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdir",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Small:726363",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdjJ",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726364",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdjT",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:726365",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdYi",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Small:726369",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7SdZo",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Palm:726370",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdd0",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Palm:726371",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sdd8",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Palm:726372",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1AcfI0uwvBMA_QJ7z7Sddm",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Palm:726373",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0_bE5VQtP1avDv_wD1_8np",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Palm:726862",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0akbR1rWH1XRFBENgAhUeD",
+      "name": "LAN_UNC_Shade_Fabric_2 :L40500xW6500xH2000mm 2:727282",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0akbR1rWH1XRFBENgAhUIt",
+      "name": "LAN_UNC_Shade_Fabric_2 :L70000xW6500xH2000mm:727363",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "32zuKWIQj8nA$syFGzKxnG",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:755129",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "32zuKWIQj8nA$syFGzKxnL",
+      "name": "Floor:LAN_ARC_FLOOR-EXT_Concrete_250mm:755133",
+      "type": "IfcSlab",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0JS_$jP79AOh2CTxRh0vdZ",
+      "name": "Parking:106x980mm:925153",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "0JS_$jP79AOh2CTxRh0sSj",
+      "name": "LAD_UNC_Street_Sign_2_Steel:L604xW360mm:926713",
+      "type": "IfcSite",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "3hUL8gQnD55OxdPOfd$h34",
+      "name": "LAD_UNC_Street_Sign_7_Steel:LAD_UNC_Street_Sign_7_Steel:932968",
+      "type": "IfcSite",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "2jZHQj6_T8RRuHL1m$Fppp",
+      "name": "LAN_UNC_Tree_Palm_01:Species_Unknown:953053",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3Zu5Bv0LOHrPC10026FoQQ"
+    },
+    {
+      "id": "1_Gv6AW8j0yQsKE_VXBDCn",
+      "name": "Level_01",
+      "type": "IfcBuildingStorey",
+      "parent": "2zdTE9fAbA295dGDQIE4dB"
+    },
+    {
+      "id": "2UqeHpff98o9s$H_4Xie$u",
+      "name": "Round Bars:RB 6 1/2:517888",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "2UqeHpff98o9s$H_4Xie$l",
+      "name": "Round Bars:RB 6 15/16:517890",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tEPI",
+      "name": "Round Bars:RB 4 7/16:518456",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tELX",
+      "name": "Round Bars:RB 2 3/4:518667",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE4X",
+      "name": "Round Bars:RB 6 1/2:519755",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE4c",
+      "name": "Round Bars:RB 6 15/16:519756",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE4d",
+      "name": "Round Bars:RB 4 7/16:519757",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE4a",
+      "name": "Round Bars:RB 2 3/4:519758",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE7M",
+      "name": "Round Bars:RB 6 1/2:519868",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE7N",
+      "name": "Round Bars:RB 6 15/16:519869",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE7K",
+      "name": "Round Bars:RB 4 7/16:519870",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE7L",
+      "name": "Round Bars:RB 2 3/4:519871",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE6d",
+      "name": "Round Bars:RB 6 1/2:519885",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE6a",
+      "name": "Round Bars:RB 6 15/16:519886",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE6b",
+      "name": "Round Bars:RB 4 7/16:519887",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE6w",
+      "name": "Round Bars:RB 2 3/4:519888",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE3Y",
+      "name": "Round Bars:RB 6 1/2:520072",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE3Z",
+      "name": "Round Bars:RB 6 15/16:520073",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE3W",
+      "name": "Round Bars:RB 4 7/16:520074",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tE3X",
+      "name": "Round Bars:RB 2 3/4:520075",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFrU",
+      "name": "Round Bars:RB 6 1/2:520756",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFrV",
+      "name": "Round Bars:RB 6 15/16:520757",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFrS",
+      "name": "Round Bars:RB 4 7/16:520758",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFrT",
+      "name": "Round Bars:RB 2 3/4:520759",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFtZ",
+      "name": "Round Bars:RB 6 1/2:520841",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFtW",
+      "name": "Round Bars:RB 6 15/16:520842",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFtX",
+      "name": "Round Bars:RB 4 7/16:520843",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFtc",
+      "name": "Round Bars:RB 2 3/4:520844",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFsw",
+      "name": "Round Bars:RB 6 1/2:520912",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFsx",
+      "name": "Round Bars:RB 6 15/16:520913",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFsu",
+      "name": "Round Bars:RB 4 7/16:520914",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFsv",
+      "name": "Round Bars:RB 2 3/4:520915",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFm_",
+      "name": "Round Bars:RB 6 1/2:521044",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "36PdotUcD5nu9u3T1_tFm$",
+      "name": "Round Bars:RB 6 15/16:521045",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1$d",
+      "name": "Round Bars:RB 6 1/2:522340",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1$c",
+      "name": "Round Bars:RB 6 15/16:522341",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1$b",
+      "name": "Round Bars:RB 4 7/16:522342",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1$a",
+      "name": "Round Bars:RB 2 3/4:522343",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1za",
+      "name": "Round Bars:RB 6 1/2:522471",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1zh",
+      "name": "Round Bars:RB 6 15/16:522472",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1zg",
+      "name": "Round Bars:RB 4 7/16:522473",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1zf",
+      "name": "Round Bars:RB 2 3/4:522474",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1w1",
+      "name": "Round Bars:RB 6 1/2:522498",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1w0",
+      "name": "Round Bars:RB 6 15/16:522499",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1w7",
+      "name": "Round Bars:RB 4 7/16:522500",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1w6",
+      "name": "Round Bars:RB 2 3/4:522501",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1wW",
+      "name": "Round Bars:RB 6 1/2:522531",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1wd",
+      "name": "Round Bars:RB 6 15/16:522532",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1wc",
+      "name": "Round Bars:RB 4 7/16:522533",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1wb",
+      "name": "Round Bars:RB 2 3/4:522534",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1x0",
+      "name": "Round Bars:RB 6 1/2:522563",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1x7",
+      "name": "Round Bars:RB 6 15/16:522564",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1x6",
+      "name": "Round Bars:RB 4 7/16:522565",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1x5",
+      "name": "Round Bars:RB 2 3/4:522566",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1u0",
+      "name": "Round Bars:RB 6 1/2:522627",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1u7",
+      "name": "Round Bars:RB 6 15/16:522628",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1u6",
+      "name": "Round Bars:RB 4 7/16:522629",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1u5",
+      "name": "Round Bars:RB 2 3/4:522630",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1uY",
+      "name": "Round Bars:RB 6 1/2:522657",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1uX",
+      "name": "Round Bars:RB 6 15/16:522658",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1uW",
+      "name": "Round Bars:RB 4 7/16:522659",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1ud",
+      "name": "Round Bars:RB 2 3/4:522660",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1t_",
+      "name": "Round Bars:RB 6 1/2:522877",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1tz",
+      "name": "Round Bars:RB 6 15/16:522878",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1ty",
+      "name": "Round Bars:RB 4 7/16:522879",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1q3",
+      "name": "Round Bars:RB 2 3/4:522880",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1oW",
+      "name": "Round Bars:RB 6 1/2:523043",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1od",
+      "name": "Round Bars:RB 6 15/16:523044",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1oc",
+      "name": "Round Bars:RB 4 7/16:523045",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1ob",
+      "name": "Round Bars:RB 2 3/4:523046",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1me",
+      "name": "Round Bars:RB 6 1/2:523179",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0pMfvneyD57eeIeRcBR1ml",
+      "name": "Round Bars:RB 6 15/16:523180",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0ZeEpBHin0RvVPRVoqElI1",
+      "name": "Round Bars:RB 3 15/16:525406",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0ZeEpBHin0RvVPRVoqElBE",
+      "name": "Round Bars:RB 3 15/16:525482",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "0ZeEpBHin0RvVPRVoqElAz",
+      "name": "Round Bars:RB 3 15/16:525529",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTA3",
+      "name": "Round Bars:RB 3 15/16:531505",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTAD",
+      "name": "Round Bars:RB 3 15/16:531507",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTAP",
+      "name": "Round Bars:RB 3 15/16:531509",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aT9Y",
+      "name": "Round Bars:RB 3 15/16:531514",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aT9i",
+      "name": "Round Bars:RB 3 15/16:531516",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTKn",
+      "name": "Round Bars:RB 3 15/16:531523",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTLl",
+      "name": "Round Bars:RB 3 15/16:531529",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTIr",
+      "name": "Round Bars:RB 3 15/16:531534",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTJD",
+      "name": "Round Bars:RB 3 15/16:531548",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTJN",
+      "name": "Round Bars:RB 3 15/16:531550",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTGZ",
+      "name": "Round Bars:RB 3 15/16:531552",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTGj",
+      "name": "Round Bars:RB 3 15/16:531554",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTGt",
+      "name": "Round Bars:RB 3 15/16:531556",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    },
+    {
+      "id": "1OkHm0emr5Jv52hgP6aTG1",
+      "name": "Round Bars:RB 3 15/16:531558",
+      "type": "IfcBeam",
+      "parent": "1_Gv6AW8j0yQsKE_VXBDCn"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "louvre",
+  "name": "louvre",
+  "models": [
+    {
+      "id": "LAD-0A-ZZ-M3-G-00001-S0-P01",
+      "name": "LAD-0A-ZZ-M3-G-00001-S0-P01",
+      "objectColorSource": "model"
+    },
+    {
+      "id": "170133_Asvest_20200131",
+      "name": "170133_Asvest_20200131",
+      "objectColorSource": "model"
+    }
+  ],
+  "viewerConfigs": {
+    "externalMetadata": true,
+    "backgroundColor": [
+      0.95,
+      0.95,
+      1.0
+    ]
+  },
+  "viewerContent": {
+    "modelsLoaded": [
+    ]
+  },
+  "viewerState": {
+    "tabOpen": "models"
+  }
+}
